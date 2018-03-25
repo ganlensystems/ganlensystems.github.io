@@ -1936,7 +1936,7 @@ body {
 .cid-qyY8keMIH0 {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/accenture-digital-agriculture-solutions-marquee-1600x900.jpg");
+  background-image: url("../../../assets/images/okokok-1600x900.png");
 }
 @media (max-width: 767px) {
   .cid-qyY8keMIH0 .content {
@@ -2016,4 +2016,7 @@ body {
 }
 .cid-qyY8keMIH0 .google-map[data-state="loading"] [data-state-details] {
   display: none;
+}
+.cid-qyY8keMIH0 P {
+  text-align: left;
 }
