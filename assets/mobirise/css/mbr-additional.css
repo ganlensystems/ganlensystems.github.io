@@ -1674,6 +1674,45 @@ body {
 .cid-qNgIxovC1i P {
   text-align: left;
 }
+.cid-qNhHCinzKT {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-color: #f9f9f9;
+}
+.cid-qNhHCinzKT h2 {
+  text-align: center;
+}
+.cid-qNhHCinzKT h4 {
+  text-align: center;
+  z-index: 1;
+  color: #ffffff;
+}
+.cid-qNhHCinzKT p {
+  z-index: 1;
+  margin-bottom: 0;
+  color: #ffffff;
+}
+.cid-qNhHCinzKT .media-container-row {
+  word-wrap: break-word;
+  word-break: break-word;
+  align-items: stretch;
+  -webkit-align-items: stretch;
+}
+.cid-qNhHCinzKT .card-img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.cid-qNhHCinzKT .card-img img {
+  z-index: -1;
+  min-height: 100%;
+  min-width: 100%;
+  width: auto;
+  max-width: 600px;
+}
 .cid-qNgSAI0AEW {
   padding-top: 45px;
   padding-bottom: 0px;
