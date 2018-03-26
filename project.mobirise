@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Corporate Template",
-    "currentPage": "index.html",
+    "currentPage": "hackathon.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1102,9 +1102,9 @@
         }
       ]
     },
-    "page1.html": {
+    "hackathon.html": {
       "settings": {
-        "meta_descr": "Web Builder Description",
+        "meta_descr": "¡Inscríbete Ahora!\n",
         "title": "Hackathon",
         "order": 1
       },
