@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Corporate Template",
-    "currentPage": "page2.html",
+    "currentPage": "pumitaschool.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1853,10 +1853,10 @@
         }
       ]
     },
-    "page2.html": {
+    "pumitaschool.html": {
       "settings": {
-        "meta_descr": "Web Site Builder Description",
-        "title": "PumitaSchool&nbsp;",
+        "meta_descr": "Aplicación Móvil para la comunidad de la\n\"Universidad Autónoma de México\"\n",
+        "title": "PumitaSchool",
         "order": 1
       },
       "components": [
