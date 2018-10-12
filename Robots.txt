@@ -1,2 +1,2 @@
 User-agent: *
-Disallow: /
+Sitemap : https://ganlensystems.github.io/sitemap.xml
