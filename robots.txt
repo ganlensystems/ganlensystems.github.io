@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap : https://ganlensystems.github.io/sitemap.xml
